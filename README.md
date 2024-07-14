@@ -1,5 +1,5 @@
 # Myntra Hackerramp
-# myntra_project
+
 Our project for Myntra Hackeramp 2024. We for she.
 A Flutter project.
 
