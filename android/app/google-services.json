@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722043687158",
+    "project_id": "myntra-eca4e",
+    "storage_bucket": "myntra-eca4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722043687158:android:1a8ff0bece317d3c1c5cd7",
+        "android_client_info": {
+          "package_name": "com.example.myntra_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV11L4rS9YwqUGseYHUNZvAkDdY1GCmcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
